@@ -1,0 +1,221 @@
+[
+  {
+    "ContainingType": "Malchikov.Controllers.AssortmentController",
+    "Method": "Index",
+    "RelativePath": "Assortment",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.AssortmentController",
+    "Method": "GetAll",
+    "RelativePath": "Assortment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.AssortmentController",
+    "Method": "PostNewAssortment",
+    "RelativePath": "Assortment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assortment",
+        "Type": "Malchikov.Models.Assortment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.AssortmentController",
+    "Method": "DeleteAssortment",
+    "RelativePath": "Assortment/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.AssortmentController",
+    "Method": "PutAssortment",
+    "RelativePath": "Assortment/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "assortment",
+        "Type": "Malchikov.Models.Assortment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.ShopController",
+    "Method": "Index",
+    "RelativePath": "Shop",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.ShopController",
+    "Method": "GetAll",
+    "RelativePath": "Shop",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.ShopController",
+    "Method": "PostNewShop",
+    "RelativePath": "Shop",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shop",
+        "Type": "Malchikov.Models.ShopDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.ShopController",
+    "Method": "DeleteShop",
+    "RelativePath": "Shop/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.ShopController",
+    "Method": "PutShop",
+    "RelativePath": "Shop/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "shop",
+        "Type": "Malchikov.Models.Shop",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.SupplierController",
+    "Method": "Index",
+    "RelativePath": "Supplier",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.SupplierController",
+    "Method": "GetAll",
+    "RelativePath": "Supplier",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.SupplierController",
+    "Method": "PostNewSupplier",
+    "RelativePath": "Supplier",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplier",
+        "Type": "Malchikov.Models.Supplier",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.SupplierController",
+    "Method": "DeleteSupplier",
+    "RelativePath": "Supplier/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Malchikov.Controllers.SupplierController",
+    "Method": "PutSupplier",
+    "RelativePath": "Supplier/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "supplier",
+        "Type": "Malchikov.Models.Supplier",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

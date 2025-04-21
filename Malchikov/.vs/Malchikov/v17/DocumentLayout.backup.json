@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|c:\\users\\user452.chenk\\documents\\mv\\malchikov\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|c:\\users\\user452.chenk\\documents\\mv\\malchikov\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|c:\\users\\user452.chenk\\documents\\mv\\malchikov\\models\\shopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|solutionrelative:models\\shopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|c:\\users\\user452.chenk\\documents\\mv\\malchikov\\controllers\\assortmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|solutionrelative:controllers\\assortmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|c:\\users\\user452.chenk\\documents\\mv\\malchikov\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|solutionrelative:controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|c:\\users\\user452.chenk\\documents\\mv\\malchikov\\models\\assortment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|solutionrelative:models\\assortment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|c:\\users\\user452.chenk\\documents\\mv\\malchikov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|c:\\users\\user452.chenk\\documents\\mv\\malchikov\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA4DE53-2704-4DAE-B1B5-947FFB807C8C}|Malchikov.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:16:10.142Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssortmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Controllers\\AssortmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssortmentController.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Controllers\\AssortmentController.cs",
+              "RelativeToolTip": "Controllers\\AssortmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:14:47.53Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:23:57.72Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T10:45:35.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopDto.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Models\\ShopDto.cs",
+              "RelativeDocumentMoniker": "Models\\ShopDto.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Models\\ShopDto.cs",
+              "RelativeToolTip": "Models\\ShopDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:39:52.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:48:03.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:20:59.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assortment.cs",
+              "DocumentMoniker": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Models\\Assortment.cs",
+              "RelativeDocumentMoniker": "Models\\Assortment.cs",
+              "ToolTip": "C:\\Users\\user452.CHENK\\Documents\\MV\\Malchikov\\Models\\Assortment.cs",
+              "RelativeToolTip": "Models\\Assortment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:20:54.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

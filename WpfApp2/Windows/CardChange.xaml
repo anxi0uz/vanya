@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp2.Windows.CardChange"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2.Windows"
+        mc:Ignorable="d"
+        Title="Главная" Height="500" Width="400">
+    <Grid Background="FloralWhite">
+        <StackPanel Margin="15">
+            <Label Style="{StaticResource lbl}" Content="Имя"/>
+            <TextBox Background="Pink" x:Name ="nameTextBox"  Style="{StaticResource tb}" Text="{Binding name}"/>
+            <Label Style="{StaticResource lbl}" Content="Номер"/>
+            <TextBox Background="Pink" x:Name="phoneTextBox" Style="{StaticResource tb}" Text="{Binding phone}"/>
+            <Label Style="{StaticResource lbl}" Content="Группа"/>
+            <ComboBox Background="Pink" x:Name="groupComboBox" Height="60" SelectedValue="{Binding groupid}" SelectedValuePath="id" DisplayMemberPath="name" SelectionChanged="groupComboBox_SelectionChanged"/>
+            <Button Background="Gray" Style="{StaticResource btn}" Name="SaveButton" Content="Сохранить" Click="SaveButton_Click"/>
+            <Button Background="Gray" Style="{StaticResource btn}" Name="AddButton" Content="Добавить Группу" Click= "AddButton_Click"/>
+            <Button Background="Gray" Style="{StaticResource btn}" Name="DeleteButton" Content="Удалить" Click="DeleteButton_Click"/>
+            <Button Background="Gray" Style="{StaticResource btn}" Name="ExitButton" Content="Выйти" Click="ExitButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
